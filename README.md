@@ -17,6 +17,7 @@ This repository serves as an official knowledge and documentation index for the 
 3. **[A-ORCA — Adaptive Opportunity & Risk Crisis Architecture](./A-ORCA/README.md)**  
    Methodology for managing complex operations, crisis opportunity management, and adaptive resilience.
 
+- **[Policy Papers & Case Studies](./policy-papers/README.md)** — Index of crisis case studies, facility hardening frameworks, and policy papers.
 ---
 
 ## نظرة عامة (النسخة العربية)
@@ -29,7 +30,8 @@ This repository serves as an official knowledge and documentation index for the 
 2. **[ISVM — مصفوفة الرؤية الأمنية الشاملة](./ISVM/README.md)**  
    إطار استباقي لاكتشاف الفجوات والثغرات وتحقيق المواءمة الأمنية والمؤسسية.
 3. **[A-ORCA — منهجية إدارة العمليات المعقدة والفرص وقت الأزمة](./A-ORCA/README.md)**  
-   منهجية متكاملة لإدارة العمليات المعقدة واستخراج الفرص وقت الأزمات وبناء المرونة التكيفية.
+   منهجية متكاملة لإدارة العمليات المعقدة واستخراج الفرص وقت الأزمات وبناء المرونة التكيفية
+- **[أوراق السياسات ودراسات الحالة](./policy-papers/README.md)** — فهرس دراسات الحالة وأطر تحصين المنشآت وأوراق السياسات.
 
 ---
 
